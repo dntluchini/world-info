@@ -1,8 +1,4 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# World-Info 🌐
+A simple app that provides data from any place in the world.<br>
+This is my first React project, where I'm practicing the use of hooks 🪝 and conditional rendering techniques.<br>
+Additionally, the app integrates with the Google Geolocation API to display location-based data. I hope you enjoy exploring it, and I'm open to any suggestions or contributions to enhance my skills in React development.

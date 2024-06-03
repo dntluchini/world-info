@@ -1,0 +1,25 @@
+.btnStyle {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  margin: 20px 0;
+  font-size: 1em;
+  font-weight: 500;
+  width: 270px;
+  max-width: 270px;
+  background-color: #1a1a1a;
+  cursor: pointer;
+  span {
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  svg {
+    fill: #FFF;
+    width: 1.5em;
+    margin-left: 2px;
+    }
+  }  
+}
+.btnStyle:hover {
+  border-color: #FFF;
+}

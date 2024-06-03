@@ -1,0 +1,21 @@
+.geoData{    
+    display: flex;
+    flex-direction: column;
+    font-size: 15px;
+    flex-wrap: wrap;
+    align-items: center;
+    background-color: aqua;
+    .locationData{
+        display: flex;
+        flex-direction: column;
+        font-size: 15px;
+        flex-wrap: wrap;
+        align-items: center;
+        background-color: aqua;
+        h3 {
+            margin: 5px 0;
+            font-weight: 500;
+        }
+    }
+}
+
